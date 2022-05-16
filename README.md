@@ -1,0 +1,3 @@
+- Hello reader, this account is just going to be a compilation of whatever stuff comes to my mind and I program it. Because why not?
+- Interested in video games and computers. Always keep up with the latest tech releases
+- Studying Comp Eng., minor in Comp Sci.
