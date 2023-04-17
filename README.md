@@ -1,3 +1,4 @@
-- Hello reader, this account is just going to be a compilation of whatever stuff comes to my mind and I program it. Because why not?
-- Interested in video games and computers. Always keep up with the latest tech releases
+- This is just a placeholder for when I come up with anything. 
+- Interested in video games, music, and computers. Always keep up with the latest tech releases
 - Studying Comp Eng., minor in Comp Sci.
+- I really should update this thing and my LinkedIn. 
