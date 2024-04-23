@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karim Smires</h1>
 <h3 align="center">A junior at Rutgers Univeristy majoring in ECE and minoring in CS</h3>
 
-- 🌱 I’m currently learning **Python and SQL**
+- 🌱 I’m currently learning **VHDL and SQL**
 
 - 💬 Ask me about **Javascript, Java, MongoDB**
 
