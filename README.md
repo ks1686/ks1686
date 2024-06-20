@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **VHDL and SQL**
 
-- 💬 Ask me about **Javascript, Java, MongoDB**
+- 💬 Ask me about **Javascript, Java, Python, and C#**
 
 - 📫 How to reach me **k.smires101@icloud.com**
 
