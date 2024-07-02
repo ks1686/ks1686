@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karim Smires</h1>
 <h3 align="center">A senior at Rutgers Univeristy majoring in ECE and minoring in CS</h3>
 
-- 🌱 I’m currently learning **VHDL and SQL**
+- 🌱 I’m currently learning **.NET, Python, C#, and JS**
 
-- 💬 Ask me about **Javascript, Java, Python, and C#**
+- 💬 Ask me about **JS, Java, Python, C/C++, and C#**
 
 - 📫 How to reach me **k.smires101@icloud.com**
 
