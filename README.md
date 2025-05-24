@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JS, Java, Python, C/C++, and C#**
 
-- 📫 How to reach me **k.smires101@icloud.com**
+- 📫 How to reach me **k.smires1686@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/karim-smires/](https://www.linkedin.com/in/karim-smires/)
 
