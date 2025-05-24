@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim Smires</h1>
-<h3 align="center">A senior at Rutgers Univeristy majoring in ECE and minoring in CS</h3>
+<h3 align="center">A new grad from Rutgers Univeristy, with a  majorin ECE and minor in CS</h3>
 
 - 🌱 I’m currently learning **SQL, Python, Java, and Verilog**
 
