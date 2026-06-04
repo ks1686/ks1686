@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karim Smires</h1>
-<h3 align="center">A new grad from Rutgers Univeristy, with a  majorin ECE and minor in CS</h3>
+<h3 align="center">A graduate student @ Rugters University studying Machine Learning. Currently interning @ Guild</h3>
 
-- 🌱 I’m currently learning **SQL, Python, Java, and Verilog**
-
-- 💬 Ask me about **JS, Java, Python, C/C++, and C#**
+- 💬 Ask me about **AI/ML, JS/TS, Python, VHDL**
 
 - 📫 How to reach me **k.smires1686@gmail.com**
 
