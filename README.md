@@ -1,19 +1,94 @@
-<h1 align="center">Hi 👋, I'm Karim Smires</h1>
-<h3 align="center">A graduate student @ Rugters University studying Machine Learning. Currently interning @ Guild</h3>
+<div align="center">
 
-- 💬 Ask me about **AI/ML, JS/TS, Python, VHDL**
+```text
+┌─────────────────────────────────────────────────────────────┐
+│  ks1686@github ~                                            │
+│  $ whoami                                                   │
+│  Karim Smires                                               │
+│  builder · systems · open source                            │
+└─────────────────────────────────────────────────────────────┘
+```
 
-- 📫 How to reach me **k.smires1686@gmail.com**
+**M.S. Machine Learning @ Rutgers** · building cross-platform tools, trading TUIs, and IoT systems
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/karim-smires/](https://www.linkedin.com/in/karim-smires/)
+[Portfolio](https://ks1686.github.io/) · [LinkedIn](https://www.linkedin.com/in/karim-smires/) · [Email](mailto:k.smires101@icloud.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/karim-smires" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karim-smires" height="30" width="40" /></a>
+<br/>
+
+| recent output | |
+|:---|:---|
+| **59** PRs merged · **+48k** lines across **9** repos | **2** production services shipped from empty repos |
+| **6** MCP tools live on a company AI gateway | **395** tests @ **98.5%** coverage on a greenfield BFF |
+
+</div>
+
+---
+
+## Featured projects
+
+### [genv](https://github.com/ks1686/genv) — Global Environment Manager
+Cross-platform package & environment sync for Linux, macOS, and Windows. One declarative `genv.json`, many package managers — `brew`, `pacman`, `winget`, `uv`, `cargo`, and more.
+
+```bash
+brew tap ks1686/tap && brew install genv
+genv scan && genv apply
+```
+
+[Docs](https://pea-pod.me/genv/) · [Homebrew tap](https://github.com/ks1686/homebrew-tap) · **Go**
+
+### [public-terminal](https://github.com/ks1686/public-terminal) — Trading TUI for Public.com
+A btop-style portfolio terminal: live multi-account streaming, options, and market-cap-weighted direct index investing with automated daily rebalancing.
+
+```bash
+go install github.com/ks1686/public-terminal/cmd/public-terminal@latest
+```
+
+**Go** · Bubble Tea · Lipgloss
+
+### [DrinkSync](https://github.com/ks1686/DrinkSync) — Sustainable hydration tracking
+Low-cost IoT smart coaster + Kotlin Android app with BLE streaming, Room persistence, and gamified goals. Co-authored [IEEE publication](https://ieeexplore.ieee.org/document/11449671).
+
+**Kotlin** · Arduino · BLE · IEEE
+
+---
+
+## Stack
+
+**Languages** — Python · TypeScript / JavaScript · Go · Java · Kotlin · C / C++ · C# · Swift · Rust · SQL · MATLAB · Verilog
+
+**Cloud & infra** — AWS (Lambda, API Gateway, CDK, SAM, Aurora, DynamoDB, S3, IAM) · Docker · GitHub Actions · Datadog · Auth0 · Snowflake · MCP
+
+**AI / ML** — PyTorch · TensorFlow · Hugging Face · OpenCV · CUDA · LLMs · NLP · computer vision · RL
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+---
 
-<!-- Android --> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <!-- Android Studio --> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="android_studio" width="40" height="40"/> </a> <!-- Apple --> <a href="https://https://developer.apple.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/> </a> <!-- Arduino --> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <!-- Bash --> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>  <!-- Blender --> <a href="https://www.blender.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a> <!-- C --> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <!-- C++ --> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <!-- C# --> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <!-- Docker --> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <!-- dotnet --> <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> </a>  <!-- Git --> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <!-- GO --> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>  <!-- IntelliJ --> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a> <!-- Java --> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <!-- JavaScript --> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <!-- Kotlin --> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <!-- Linux --> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <!-- MATLAB --> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <!-- MongoDB --> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <!-- MySQL --> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <!-- NodeJS --> <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"  alt="nodejs" width="40" height="40"/> </a> <!-- Postman --> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <!-- Pycharm --> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>  <!-- Python --> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <!-- Swift --> <a href="https://www.swift.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <!-- TypeScript --> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <!-- Visual Studio --> <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visual_studio" width="40" height="40"/> </a> <!-- VSCode --> <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <!-- Xcode --> <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/> </a>
+## Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ks1686/ks1686/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ks1686/ks1686/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ks1686/ks1686/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+`cat contact.txt`
+
+**k.smires101@icloud.com** · [linkedin.com/in/karim-smires](https://www.linkedin.com/in/karim-smires/) · [ks1686.github.io](https://ks1686.github.io/)
+
+</div>
