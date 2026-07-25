@@ -15,10 +15,20 @@
 
 <br/>
 
-| recent output | |
-|:---|:---|
-| **59** PRs merged · **+48k** lines across **9** repos | **2** production services shipped from empty repos |
-| **6** MCP tools live on a company AI gateway | **395** tests @ **98.5%** coverage on a greenfield BFF |
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ks1686&show_icons=true&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ks1686&show_icons=true&theme=default&hide_border=true" />
+    <img height="165" alt="Karim's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ks1686&show_icons=true&theme=dark&hide_border=true" />
+  </picture>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ks1686&layout=compact&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ks1686&layout=compact&theme=default&hide_border=true" />
+    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks1686&layout=compact&theme=dark&hide_border=true" />
+  </picture>
+</a>
 
 </div>
 
@@ -56,7 +66,7 @@ Low-cost IoT smart coaster + Kotlin Android app with BLE streaming, Room persist
 
 **Languages** — Python · TypeScript / JavaScript · Go · Java · Kotlin · C / C++ · C# · Swift · Rust · SQL · MATLAB · Verilog
 
-**Cloud & infra** — AWS (Lambda, API Gateway, CDK, SAM, Aurora, DynamoDB, S3, IAM) · Docker · GitHub Actions · Datadog · Auth0 · Snowflake · MCP
+**Cloud & infra** — AWS · Docker · GitHub Actions · Cloudflare
 
 **AI / ML** — PyTorch · TensorFlow · Hugging Face · OpenCV · CUDA · LLMs · NLP · computer vision · RL
 
