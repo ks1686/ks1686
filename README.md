@@ -15,18 +15,18 @@
 
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ks1686">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ks1686&show_icons=true&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ks1686&show_icons=true&theme=default&hide_border=true" />
-    <img height="165" alt="Karim's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ks1686&show_icons=true&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg" />
+    <img height="165" alt="Karim's GitHub stats" src="./profile/stats.svg" />
   </picture>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ks1686">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ks1686&layout=compact&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ks1686&layout=compact&theme=default&hide_border=true" />
-    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks1686&layout=compact&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg" />
+    <img height="165" alt="Top languages" src="./profile/top-langs.svg" />
   </picture>
 </a>
 
