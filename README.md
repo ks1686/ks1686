@@ -37,17 +37,17 @@
 ## Featured projects
 
 ### [genv](https://github.com/ks1686/genv) — Global Environment Manager
-Cross-platform package & environment sync for Linux, macOS, and Windows. One declarative `genv.json`, many package managers — `brew`, `pacman`, `winget`, `uv`, `cargo`, and more.
+Cross-platform package & environment sync for Linux, macOS, and Windows. One declarative `genv.json`, many package managers — `brew`, `pacman`, `apt`, `dnf`, `apk`, `winget`, `uv`, `cargo`, and more.
 
 ```bash
-brew tap ks1686/tap && brew install genv
+brew tap ks1686/tap && brew install --cask genv
 genv scan && genv apply
 ```
 
 [Docs](https://pea-pod.me/genv/) · [Homebrew tap](https://github.com/ks1686/homebrew-tap) · **Go**
 
 ### [public-terminal](https://github.com/ks1686/public-terminal) — Trading TUI for Public.com
-A btop-style portfolio terminal: live multi-account streaming, options, and market-cap-weighted direct index investing with automated daily rebalancing.
+A btop-style portfolio terminal: live multi-account streaming, options close, and market-cap-weighted direct index investing with automated daily rebalancing (systemd or launchd).
 
 ```bash
 go install github.com/ks1686/public-terminal/cmd/public-terminal@latest
@@ -59,6 +59,21 @@ go install github.com/ks1686/public-terminal/cmd/public-terminal@latest
 Low-cost IoT smart coaster + Kotlin Android app with BLE streaming, Room persistence, and gamified goals. Co-authored [IEEE publication](https://ieeexplore.ieee.org/document/11449671).
 
 **Kotlin** · Arduino · BLE · IEEE
+
+### [pea-pod](https://github.com/ks1686/pea-pod) — Personal project hub
+Vanilla JS / PWA homepage for the public tools, served on Cloudflare Workers + GitHub Pages.
+
+[pea-pod.me](https://pea-pod.me/) · **JavaScript** · Cloudflare
+
+### [psych-cert-automator](https://github.com/ks1686/psych-cert-automator) — CE certificate desktop app
+Matches Zoom attendance to Qualtrics surveys and prints GSAPP CE PDFs. Tauri + Python, offline installers for macOS / Windows / Linux.
+
+**Python** · Tauri · Bun
+
+### [AI-Enabled-Payment-Kiosk](https://github.com/ks1686/AI-Enabled-Payment-Kiosk) — LLM kiosk checkout
+JSON menu, cart, Llama chatbot (text + voice), and crypto / card payments.
+
+**Node.js** · Express · LLM
 
 ---
 
