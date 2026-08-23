@@ -9,7 +9,7 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
-**M.S. Machine Learning @ Rutgers** · building cross-platform tools, trading TUIs, and IoT systems
+**Associate Software Engineer @ Guild** · M.S. Machine Learning @ Rutgers · building cross-platform tools, trading TUIs, and IoT systems
 
 [Portfolio](https://ks1686.github.io/) · [LinkedIn](https://www.linkedin.com/in/karim-smires/) · [Email](mailto:k.smires101@icloud.com)
 
@@ -70,10 +70,10 @@ Matches Zoom attendance to Qualtrics surveys and prints GSAPP CE PDFs. Tauri + P
 
 **Python** · Tauri · Bun
 
-### [AI-Enabled-Payment-Kiosk](https://github.com/ks1686/AI-Enabled-Payment-Kiosk) — LLM kiosk checkout
-JSON menu, cart, Llama chatbot (text + voice), and crypto / card payments.
+### [Crypto-Payment-API](https://github.com/ks1686/Crypto-Payment-API) — Crypto payment gateway
+Self-hosted testnet payment demo (Node.js, Express): ETH (Sepolia) and XLM (Stellar) invoice pages with QR checkout that flip from *pending* to *paid* automatically as blockchain confirmations land — with a zero-config demo mode.
 
-**Node.js** · Express · LLM
+**Node.js** · Express · Ethereum · Stellar
 
 ---
 
