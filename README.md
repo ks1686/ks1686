@@ -102,9 +102,9 @@ JSON menu, cart, Llama chatbot (text + voice), and crypto / card payments.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ks1686/ks1686/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ks1686/ks1686/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ks1686/ks1686/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ks1686/ks1686/main/profile/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ks1686/ks1686/main/profile/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ks1686/ks1686/main/profile/github-snake.svg" />
   </picture>
 </div>
 
