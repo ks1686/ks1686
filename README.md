@@ -57,7 +57,7 @@ peaproxy serve
 [Docs](https://pea-pod.me/peaproxy/) · **Go**
 
 ### [rutgers-health-services-app](https://github.com/ks1686/rutgers-health-services-app): CWC Health App
-Flutter pilot for CSPNJ Community Wellness Centers (Rutgers BHEI), Android and iOS. Nearby services from OpenStreetMap, on-device health records, a persistent Help Now control, and no accounts or third-party analytics. CI runs format, analyze, tests, and APK builds on every PR.
+Flutter pilot for CSPNJ Community Wellness Centers (Rutgers BHEI), Android and iOS. Nearby services from OpenStreetMap, on-device health records, a persistent Help Now control, and no accounts or third-party analytics. CI runs format, analyze, tests, and APK builds on every PR. Paper submitted to IEEE HMSS 2026.
 
 **Flutter** · Dart · Android · iOS
 
