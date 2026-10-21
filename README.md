@@ -11,7 +11,7 @@
 
 **Associate Software Engineer @ Guild** · M.S. Machine Learning @ Rutgers · building cross-platform dev tools, AI gateways, and health and IoT apps
 
-[pea-pod.me](https://pea-pod.me/) · [Resume](https://pea-pod.me/resume/) · [LinkedIn](https://www.linkedin.com/in/karim-smires/) · [Email](mailto:k.smires101@icloud.com)
+[peapod.fyi](https://peapod.fyi/) · [Resume](https://peapod.fyi/resume/) · [LinkedIn](https://www.linkedin.com/in/karim-smires/) · [Email](mailto:k.smires101@icloud.com)
 
 <br/>
 
@@ -44,7 +44,7 @@ brew tap ks1686/tap && brew install --cask genv
 genv add git && genv apply --dry-run
 ```
 
-[Docs](https://pea-pod.me/genv/) · [Homebrew tap](https://github.com/ks1686/homebrew-tap) · **Go**
+[Docs](https://peapod.fyi/genv/) · [Homebrew tap](https://github.com/ks1686/homebrew-tap) · **Go**
 
 ### [peaproxy](https://github.com/ks1686/peaproxy): Local multi-provider AI gateway
 One localhost endpoint for coding tools: OpenAI-, Claude-, and Responses-shaped APIs over API keys, local runtimes, and optional subscription OAuth, with a live model catalog, 429/401 failover, OS keychain secrets, a CLI, and a browser UI.
@@ -54,7 +54,16 @@ brew tap ks1686/tap && brew install --cask peaproxy
 peaproxy serve
 ```
 
-[Docs](https://pea-pod.me/peaproxy/) · **Go**
+[Docs](https://peapod.fyi/peaproxy/) · **Go**
+
+### [umbilical](https://github.com/ks1686/umbilical): native macOS download manager
+Native macOS download manager over aria2 and yt-dlp. Parallel HTTP, magnet/torrent with no seeding, Safari handoff, and a menu bar.
+
+```bash
+brew tap ks1686/tap && brew install --cask umbilical
+```
+
+[Docs](https://peapod.fyi/umbilical/) · [Homebrew tap](https://github.com/ks1686/homebrew-tap) · **Swift**
 
 ### [rutgers-health-services-app](https://github.com/ks1686/rutgers-health-services-app): CWC Health App
 Flutter pilot for CSPNJ Community Wellness Centers (Rutgers BHEI), Android and iOS. Nearby services from OpenStreetMap, on-device health records, a persistent Help Now control, and no accounts or third-party analytics. CI runs format, analyze, tests, and APK builds on every PR. Paper submitted to IEEE HMSS 2026.
@@ -71,10 +80,10 @@ Desktop app for the Rutgers GSAPP Psychology Department that matches Zoom attend
 
 **Python** · Tauri
 
-### [pea-pod](https://github.com/ks1686/pea-pod): Personal project hub
+### pea-pod: Personal project hub
 Dependency-free static site (HTML, CSS, vanilla JS) for project docs and my resume, served on Cloudflare Workers.
 
-[pea-pod.me](https://pea-pod.me/) · **JavaScript** · Cloudflare Workers
+[peapod.fyi](https://peapod.fyi/) · **JavaScript** · Cloudflare Workers
 
 ---
 
@@ -115,6 +124,6 @@ Dependency-free static site (HTML, CSS, vanilla JS) for project docs and my resu
 
 `cat contact.txt`
 
-**k.smires101@icloud.com** · [linkedin.com/in/karim-smires](https://www.linkedin.com/in/karim-smires/) · [pea-pod.me/resume](https://pea-pod.me/resume/)
+**k.smires101@icloud.com** · [linkedin.com/in/karim-smires](https://www.linkedin.com/in/karim-smires/) · [peapod.fyi/resume](https://peapod.fyi/resume/)
 
 </div>
